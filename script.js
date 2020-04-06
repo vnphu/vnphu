@@ -79,9 +79,11 @@
                               if(confirm("you win! new game?"))
                               {
                                   this.start();
+                                   this.turns= []
                               }
                               else{
                                   this.gamestart =false;
+                                   this.turns= []
                               }
                            }
                            else if(this.playerheal <0)
@@ -89,9 +91,11 @@
                                 if(confirm("you lost! new game?"))
                               {
                                   this.start();
+                                   this.turns= []
                               }
                               else{
                                   this.gamestart =false;
+                                   this.turns= []
                               }
                            }
                   }
