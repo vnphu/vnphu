@@ -79,11 +79,11 @@
                               if(confirm("you win! new game?"))
                               {
                                   this.start();
-                                   this.turns= []
+                                  this.turns= []
                               }
                               else{
                                   this.gamestart =false;
-                                   this.turns= []
+                                  this.turns= []
                               }
                            }
                            else if(this.playerheal <0)
@@ -91,12 +91,15 @@
                                 if(confirm("you lost! new game?"))
                               {
                                   this.start();
-                                   this.turns= []
+                                  this.turns= []
                               }
                               else{
                                   this.gamestart =false;
-                                   this.turns= []
+                                  this.turns= []
                               }
+                           }
+                           if(this.bossheal <10){
+                               return this.bossheal = 30;
                            }
                   }
               }
