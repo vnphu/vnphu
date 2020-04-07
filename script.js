@@ -98,7 +98,7 @@
                                   this.turns= []
                               }
                            }
-                           if(this.bossheal <10){
+                           if(this.bossheal <15){
                                return this.bossheal = 30;
                            }
                   }
