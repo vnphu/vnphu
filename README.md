@@ -1,4 +1,4 @@
-<!-- Trungquandev -->
+<!-- VnPhu -->
 <a href="#" target="_blank">
   <img src="svg/vnphu.svg" width="1200" alt="Click to see the source" />
 </a>
@@ -53,11 +53,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#" title="VnPhu">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VnPhu&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="#" title="VnPhu">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=VnPhu&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -68,19 +68,19 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://vnphu.com" target="blank">
-    <img width="90" height="90" src="images/avt.jpg" alt="trungquandev-blog" />
+    <img width="90" height="90" src="images/avt.jpg" alt="VnPhu-blog" />
   </a>
   <a href="https://facebook.com/vnp117" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="VnPhu-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/v%C3%B5-nh%C6%B0-ph%C3%BA-54a34a170/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="VnPhu-linkedin" />
   </a>
   <a href="https://www.instagram.com/phu11.07/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="VnPhu-instagram" />
   </a>
   <a href="mailto:vonhuphu117@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="VnPhu-email" />
   </a>
 </div>
 
