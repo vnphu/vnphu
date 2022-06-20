@@ -2,6 +2,7 @@
 <a href="#" target="_blank">
 <!--   <img src="svg/vnphu.svg" width="1200" alt="Click to see the source" /> -->
 </a>
+![](https://komarev.com/ghpvc/?username=vnphu&label=PROFILE+VIEWS)
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
