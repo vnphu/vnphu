@@ -27,7 +27,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" />
+</span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
@@ -68,9 +69,6 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://vnphu.com" target="blank">
-    <img width="90" height="90" src="images/logo.png" alt="Vnphu-blog" />
-  </a>
   <a href="https://facebook.com/vnp117" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="VnPhu-facebook" />
   </a>
