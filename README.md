@@ -65,22 +65,6 @@
 
 <br>
 
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://facebook.com/vnp117" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="VnPhu-facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/v%C3%B5-nh%C6%B0-ph%C3%BA-54a34a170/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="VnPhu-linkedin" />
-  </a>
-  <a href="https://www.instagram.com/phu11.07/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="VnPhu-instagram" />
-  </a>
-  <a href="mailto:vonhuphu117@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="VnPhu-email" />
-  </a>
-</div>
+
 
 <br>
